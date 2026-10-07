@@ -1,0 +1,7 @@
+# Core Lab Application Requirements:
+# Pure Python 3.8+ Standard Library (sqlite3, http.server, urllib, hashlib, secrets, json)
+# No external pip dependencies are required to run the vulnerable and secure lab instances!
+
+# Optional defensive security auditing & development utilities:
+# requests>=2.31.0
+# pytest>=7.4.0
